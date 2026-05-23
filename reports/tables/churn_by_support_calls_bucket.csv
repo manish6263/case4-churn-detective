@@ -1,0 +1,5 @@
+support_calls_bucket,customers,churners,churn_rate,share_of_customers
+6+,559,296,0.5295,0.0799
+3-5,1420,575,0.4049,0.2029
+0,1376,458,0.3328,0.1966
+1-2,3645,1202,0.3298,0.5207

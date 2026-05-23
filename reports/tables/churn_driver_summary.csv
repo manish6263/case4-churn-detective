@@ -1,0 +1,8 @@
+driver,highest_risk_group,highest_churn_rate,lowest_risk_group,lowest_churn_rate,risk_gap_pct_points
+tenure_bucket,0-6,0.494,49-72,0.2255,26.85
+contract_type,Month-to-month,0.4675,Two year,0.2262,24.13
+support_calls_bucket,6+,0.5295,1-2,0.3298,19.97
+late_payments_bucket,2+,0.5238,1,0.3441,17.97
+payment_method,Electronic check,0.4432,Credit card (auto),0.3108,13.24
+monthly_charge_bucket,Q4 highest,0.4041,Q1 lowest,0.3337,7.04
+tech_support,No,0.3851,Yes,0.3296,5.55

@@ -1,0 +1,5 @@
+payment_method,customers,churners,churn_rate,share_of_customers
+Electronic check,2403,1065,0.4432,0.3433
+Bank transfer (auto),1561,514,0.3293,0.223
+Mailed check,1411,447,0.3168,0.2016
+Credit card (auto),1625,505,0.3108,0.2321

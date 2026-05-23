@@ -1,0 +1,4 @@
+late_payments_bucket,customers,churners,churn_rate,share_of_customers
+2+,420,220,0.5238,0.06
+0,4633,1641,0.3542,0.6619
+1,1947,670,0.3441,0.2781

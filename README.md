@@ -50,6 +50,14 @@ python src/data_audit.py
 
 This writes audit tables to `reports/tables/` and the base churn chart to `reports/figures/`.
 
+Run churn-driver EDA:
+
+```bash
+python src/churn_driver_eda.py
+```
+
+This writes churn-rate evidence tables and driver charts to `reports/tables/` and `reports/figures/`.
+
 ## Stack
 
 - pandas/numpy: data audit and feature analysis.
