@@ -40,6 +40,16 @@ notebooks/case4_churn_analysis.ipynb
 - `DECISIONS.md` with assumptions and trade-offs.
 - Submission package with README, DECISIONS, deck PDF, repo link, and demo video link.
 
+## Reproduce Report Assets
+
+Run the data audit:
+
+```bash
+python src/data_audit.py
+```
+
+This writes audit tables to `reports/tables/` and the base churn chart to `reports/figures/`.
+
 ## Stack
 
 - pandas/numpy: data audit and feature analysis.

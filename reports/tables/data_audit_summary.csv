@@ -1,0 +1,12 @@
+metric,value
+rows,7000.0
+columns,21.0
+duplicate_customer_ids,0.0
+churn_rate,0.3616
+churned_customers,2531.0
+retained_customers,4469.0
+tenure_mean_months,22.64
+tenure_median_months,16.0
+monthly_charges_mean,69.84
+monthly_charges_min,20.01
+monthly_charges_max,120.0
