@@ -58,6 +58,14 @@ python src/churn_driver_eda.py
 
 This writes churn-rate evidence tables and driver charts to `reports/tables/` and `reports/figures/`.
 
+Train the interpretable baseline model:
+
+```bash
+python src/train_baseline_model.py
+```
+
+This writes baseline metrics, confusion matrix, coefficients, and the model artifact to `reports/tables/` and `models/`.
+
 ## Stack
 
 - pandas/numpy: data audit and feature analysis.

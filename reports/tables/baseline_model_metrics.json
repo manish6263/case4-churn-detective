@@ -1,0 +1,11 @@
+{
+  "model": "logistic_regression_baseline",
+  "test_rows": 1400,
+  "base_churn_rate_test": 0.3614,
+  "roc_auc": 0.7191,
+  "pr_auc": 0.5677,
+  "accuracy": 0.6629,
+  "precision": 0.5256,
+  "recall": 0.6897,
+  "f1": 0.5966
+}
