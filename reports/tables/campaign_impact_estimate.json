@@ -1,0 +1,14 @@
+{
+  "selected_threshold": "top_20_percent",
+  "assumed_save_rate_low": 0.1,
+  "assumed_save_rate_high": 0.15,
+  "assumed_retention_months": 6,
+  "targeted_customers": 280,
+  "churners_found": 170,
+  "expected_saved_customers_low": 17.0,
+  "expected_saved_customers_high": 25.5,
+  "avg_monthly_charge_targeted": 74.99,
+  "gross_revenue_saved_low": 7648.98,
+  "gross_revenue_saved_high": 11473.47,
+  "note": "Gross estimate before offer costs. Use holdout test to measure true incremental lift."
+}

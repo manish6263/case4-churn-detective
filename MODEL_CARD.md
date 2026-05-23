@@ -32,6 +32,18 @@ Rank telecom customers by churn risk so the retention team can prioritize campai
 
 Current selection: **Random Forest** for churn-risk ranking because it has the strongest ROC-AUC and PR-AUC. Logistic Regression is still used for interpretability because its coefficients give clearer directionality.
 
+## Campaign Threshold Result
+
+Using the selected Random Forest risk scores on the held-out test set:
+
+| Targeting Rule | Customers Targeted | Churners Found | Precision | Recall | Lift vs Random |
+|---|---:|---:|---:|---:|---:|
+| Top 10% risk | 140 | 86 | 0.6143 | 0.1700 | 1.70x |
+| Top 20% risk | 280 | 170 | 0.6071 | 0.3360 | 1.68x |
+| Top 30% risk | 420 | 243 | 0.5786 | 0.4802 | 1.60x |
+
+Recommended starting point: **top 20% risk**. It captures one-third of churners in a manageable outreach pool and performs 1.68x better than random targeting.
+
 ## Monitoring Considerations
 
 In production, the model should be monitored for feature drift, label drift, campaign response, fairness concerns, and changes in churn base rate.

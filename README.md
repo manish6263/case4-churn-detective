@@ -74,6 +74,14 @@ python src/compare_model_candidates.py
 
 This compares Logistic Regression with Random Forest. The current selected model is Random Forest for risk ranking because it has the best ROC-AUC and PR-AUC, while Logistic Regression remains useful for directional interpretation.
 
+Evaluate campaign targeting thresholds:
+
+```bash
+python src/evaluate_campaign_thresholds.py
+```
+
+At the current top-20% risk threshold, the model targets 280 customers in the test set and captures 170 actual churners, giving 60.71% precision and 1.68x lift over random targeting.
+
 ## Stack
 
 - pandas/numpy: data audit and feature analysis.

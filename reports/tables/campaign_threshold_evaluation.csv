@@ -1,0 +1,4 @@
+target_top_pct,targeted_customers,churners_found,precision_at_threshold,recall_at_threshold,lift_vs_random,avg_monthly_charge_targeted
+10,140,86,0.6143,0.17,1.7,79.43
+20,280,170,0.6071,0.336,1.68,74.99
+30,420,243,0.5786,0.4802,1.6,71.38
