@@ -66,6 +66,14 @@ python src/train_baseline_model.py
 
 This writes baseline metrics, confusion matrix, coefficients, and the model artifact to `reports/tables/` and `models/`.
 
+Compare model candidates:
+
+```bash
+python src/compare_model_candidates.py
+```
+
+This compares Logistic Regression with Random Forest. The current selected model is Random Forest for risk ranking because it has the best ROC-AUC and PR-AUC, while Logistic Regression remains useful for directional interpretation.
+
 ## Stack
 
 - pandas/numpy: data audit and feature analysis.
