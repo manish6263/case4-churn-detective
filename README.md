@@ -33,9 +33,11 @@ Open:
 notebooks/case4_churn_analysis.ipynb
 ```
 
+This notebook is the main review entry point. It summarizes the data audit, driver evidence, model comparison, campaign threshold, customer segments, retention plays, limitations, and 60-day measurement plan.
+
 ## Planned Deliverables
 
-- Notebook with EDA, modeling, interpretation, segmentation, limitations, and 60-day measurement plan.
+- Notebook with EDA, modeling, interpretation, segmentation, limitations, and 60-day measurement plan: `notebooks/case4_churn_analysis.ipynb`.
 - 5-slide CMO deck.
 - CMO retention brief: `reports/churn_retention_brief.md`.
 - `DECISIONS.md` with assumptions and trade-offs.
