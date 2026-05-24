@@ -39,6 +39,7 @@ This notebook is the main review entry point. It summarizes the data audit, driv
 
 - Notebook with EDA, modeling, interpretation, segmentation, limitations, and 60-day measurement plan: `notebooks/case4_churn_analysis.ipynb`.
 - 5-slide CMO deck.
+- Deck source: `CASE4_DECK.md`.
 - CMO retention brief: `reports/churn_retention_brief.md`.
 - `DECISIONS.md` with assumptions and trade-offs.
 - Submission package with README, DECISIONS, deck PDF, repo link, and demo video link.
