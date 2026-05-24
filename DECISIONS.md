@@ -20,9 +20,11 @@
 - Uplift modeling - no historical treatment/control campaign data is provided.
 - Production scoring API - Case 4 is an analysis brief; Case 9 covers model serving.
 - Real CRM integration - outside the one-day case scope.
+- Guaranteed ROI claim - current impact is a gross estimate and needs a treatment/holdout campaign test.
 
 ## What I'd Do Differently With Another Day
 
 - Add SHAP explanations if dependency setup remains smooth.
 - Build a lightweight Streamlit dashboard for non-technical exploration.
 - Use real offer costs and customer lifetime value for cost-aware optimization.
+- Add treatment-response data and move from churn-risk modeling to uplift modeling.

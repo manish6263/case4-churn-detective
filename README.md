@@ -37,6 +37,7 @@ notebooks/case4_churn_analysis.ipynb
 
 - Notebook with EDA, modeling, interpretation, segmentation, limitations, and 60-day measurement plan.
 - 5-slide CMO deck.
+- CMO retention brief: `reports/churn_retention_brief.md`.
 - `DECISIONS.md` with assumptions and trade-offs.
 - Submission package with README, DECISIONS, deck PDF, repo link, and demo video link.
 
@@ -89,6 +90,14 @@ python src/make_segments.py
 ```
 
 The top-risk pool is split into primary segments for campaign planning. The largest primary group is service-frustrated customers, while membership analysis shows payment-friction and new-customer onboarding risks are common and often overlap with other risks.
+
+Read the CMO-facing retention brief:
+
+```text
+reports/churn_retention_brief.md
+```
+
+It summarizes who to target, what to offer, expected impact, limitations, and the 60-day measurement plan.
 
 ## Stack
 
