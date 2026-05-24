@@ -82,6 +82,14 @@ python src/evaluate_campaign_thresholds.py
 
 At the current top-20% risk threshold, the model targets 280 customers in the test set and captures 170 actual churners, giving 60.71% precision and 1.68x lift over random targeting.
 
+Segment top-risk customers:
+
+```bash
+python src/make_segments.py
+```
+
+The top-risk pool is split into primary segments for campaign planning. The largest primary group is service-frustrated customers, while membership analysis shows payment-friction and new-customer onboarding risks are common and often overlap with other risks.
+
 ## Stack
 
 - pandas/numpy: data audit and feature analysis.

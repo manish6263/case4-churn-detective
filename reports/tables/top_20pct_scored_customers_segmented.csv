@@ -1,0 +1,281 @@
+tenure_months,contract_type,monthly_charges,total_charges,internet_service,online_security,tech_support,streaming_tv,payment_method,paperless_billing,senior_citizen,partner,dependents,phone_service,multiple_lines,support_calls_3mo,avg_data_gb_3mo,late_payments_6mo,plan_changes_6mo,customer_id,actual_churned,churn_probability,risk_rank,primary_segment
+3,Month-to-month,98.89,291.08,Fiber optic,No,No,Yes,Electronic check,Yes,0,No,No,Yes,No,5,24.18,0,1,CUST51607,1,0.8367206681583991,1,Service-frustrated
+1,Month-to-month,61.39,59.33,Fiber optic,No,No,Yes,Electronic check,Yes,0,No,Yes,Yes,No,4,25.84,0,1,CUST51354,1,0.8257874305921749,2,Service-frustrated
+1,Month-to-month,99.88,101.88,Fiber optic,No,No,Yes,Electronic check,Yes,0,No,No,Yes,Yes,2,44.8,1,0,CUST53615,1,0.8096748093190337,3,Payment-friction
+1,Month-to-month,71.51,73.64,Fiber optic,No,No,No,Electronic check,Yes,1,Yes,No,Yes,Yes,1,15.93,0,1,CUST51584,0,0.806910932602659,4,Payment-friction
+4,Month-to-month,81.2,302.33,Fiber optic,No,No,No,Electronic check,Yes,0,No,No,Yes,Yes,1,19.72,0,1,CUST54533,1,0.8023123721296156,5,Payment-friction
+3,Month-to-month,81.47,223.9,Fiber optic,No,No,No,Electronic check,Yes,0,Yes,No,Yes,No,0,17.81,0,1,CUST53874,1,0.8012386233661515,6,Payment-friction
+6,Month-to-month,88.57,454.57,Fiber optic,No,No,Yes,Electronic check,Yes,0,No,Yes,Yes,No,6,29.73,0,0,CUST53040,1,0.7986117382565604,7,Service-frustrated
+1,Month-to-month,110.39,106.29,Fiber optic,No,No,Yes,Mailed check,No,0,No,Yes,Yes,Yes,10,38.77,1,0,CUST54099,1,0.7951503516509385,8,Service-frustrated
+1,Month-to-month,69.38,60.35,DSL,Yes,No,Yes,Electronic check,No,0,Yes,Yes,Yes,Yes,5,41.49,1,0,CUST56663,1,0.7932623446661793,9,Service-frustrated
+1,Month-to-month,84.57,85.67,DSL,Yes,No,No,Electronic check,No,0,Yes,No,Yes,Yes,8,17.01,0,0,CUST53742,1,0.7906845747634983,10,Service-frustrated
+4,Month-to-month,49.45,201.96,Fiber optic,No,Yes,Yes,Electronic check,Yes,1,No,No,Yes,Yes,10,8.0,0,0,CUST50071,0,0.7904529665524573,11,Service-frustrated
+2,Month-to-month,55.34,109.41,Fiber optic,Yes,Yes,No,Electronic check,No,1,No,No,Yes,No,5,75.39,2,1,CUST52665,1,0.7899265486948229,12,Service-frustrated
+2,Month-to-month,112.54,231.63,Fiber optic,Yes,Yes,Yes,Bank transfer (auto),Yes,0,Yes,No,Yes,No,7,19.61,0,0,CUST55133,1,0.7875820211642912,13,Service-frustrated
+2,Month-to-month,71.93,124.01,Fiber optic,No,Yes,No,Electronic check,Yes,0,Yes,Yes,Yes,Yes,5,2.05,0,0,CUST55246,0,0.7823875423893825,14,Service-frustrated
+1,Month-to-month,46.01,44.61,DSL,No,No,No,Electronic check,No,0,No,Yes,Yes,Yes,4,35.48,0,1,CUST53408,1,0.7795247221892775,15,Service-frustrated
+17,Month-to-month,107.37,1753.93,Fiber optic,No,No,No,Mailed check,Yes,0,Yes,No,Yes,No,3,24.37,0,0,CUST52484,1,0.7776528337118385,16,Service-frustrated
+1,Month-to-month,76.13,76.95,Fiber optic,No,No,Yes,Electronic check,No,0,Yes,No,Yes,No,1,12.22,0,0,CUST53759,0,0.7767019724129455,17,Payment-friction
+3,Month-to-month,104.45,273.1,Fiber optic,No,No,No,Electronic check,Yes,0,No,Yes,Yes,No,2,53.06,0,1,CUST55227,1,0.7766675481887053,18,Payment-friction
+1,Month-to-month,114.01,111.71,Fiber optic,No,Yes,Yes,Electronic check,Yes,0,No,Yes,Yes,No,1,33.01,1,1,CUST52355,1,0.7763847852618297,19,Payment-friction
+1,Month-to-month,108.65,104.27,Fiber optic,No,No,Yes,Bank transfer (auto),Yes,0,No,No,No,No phone service,0,5.33,0,0,CUST54255,1,0.769180423924538,20,Price-sensitive
+3,Month-to-month,109.61,319.98,Fiber optic,No,No,No,Bank transfer (auto),No,0,No,Yes,Yes,No,7,13.29,0,1,CUST56035,1,0.7688095677719318,21,Service-frustrated
+5,Month-to-month,69.04,296.91,Fiber optic,Yes,No,Yes,Mailed check,Yes,0,Yes,Yes,Yes,Yes,4,16.4,0,1,CUST53566,0,0.7685852320279116,22,Service-frustrated
+1,Month-to-month,91.16,90.82,Fiber optic,No,No,No,Bank transfer (auto),No,0,Yes,No,Yes,No,0,15.08,0,1,CUST51079,1,0.7679071096353256,23,New-customer onboarding
+2,Month-to-month,63.32,115.73,Fiber optic,Yes,No,Yes,Credit card (auto),Yes,0,No,Yes,Yes,Yes,4,14.66,1,0,CUST56690,1,0.7659089929243987,24,Service-frustrated
+7,Month-to-month,105.86,636.85,Fiber optic,Yes,No,Yes,Electronic check,No,0,No,Yes,No,No phone service,5,29.7,1,0,CUST55427,1,0.7643991000419613,25,Service-frustrated
+19,Month-to-month,118.13,2067.04,Fiber optic,Yes,No,No,Electronic check,Yes,0,No,No,Yes,Yes,7,21.08,0,0,CUST55301,1,0.7606516594920854,26,Service-frustrated
+7,Month-to-month,73.34,452.44,Fiber optic,No,No,No,Electronic check,Yes,0,No,No,Yes,Yes,2,25.47,0,0,CUST51043,1,0.7606025471665083,27,Payment-friction
+2,Month-to-month,80.41,140.19,Fiber optic,No,No,Yes,Credit card (auto),Yes,0,No,No,Yes,Yes,3,14.79,0,0,CUST50429,1,0.758389227054948,28,Service-frustrated
+1,Month-to-month,96.44,92.42,No,No internet service,No internet service,No internet service,Electronic check,No,0,No,No,Yes,No,2,0.0,0,1,CUST55190,0,0.7583229880834722,29,Payment-friction
+1,Month-to-month,106.61,107.34,Fiber optic,Yes,No,Yes,Electronic check,Yes,0,No,No,Yes,No,0,66.27,0,0,CUST55166,1,0.7580888613250895,30,Payment-friction
+9,Month-to-month,95.14,838.84,Fiber optic,No,No,No,Bank transfer (auto),Yes,0,Yes,Yes,Yes,Yes,4,16.16,1,1,CUST56908,1,0.7570745193613607,31,Service-frustrated
+1,Month-to-month,21.52,21.98,DSL,Yes,No,No,Electronic check,No,0,Yes,Yes,Yes,No,4,36.34,0,0,CUST50043,1,0.7560001253285107,32,Service-frustrated
+1,Month-to-month,51.52,47.33,Fiber optic,No,No,No,Electronic check,No,0,No,Yes,Yes,Yes,0,6.61,0,1,CUST54620,1,0.7559150095110376,33,Payment-friction
+1,Month-to-month,106.4,100.26,Fiber optic,Yes,No,No,Mailed check,No,0,No,No,Yes,Yes,1,15.83,1,0,CUST52178,0,0.7559030688875914,34,Price-sensitive
+2,Month-to-month,31.62,65.66,Fiber optic,Yes,Yes,No,Electronic check,No,0,Yes,No,Yes,No,4,4.98,0,0,CUST52538,1,0.7548358026949518,35,Service-frustrated
+2,Month-to-month,66.13,136.51,Fiber optic,Yes,No,No,Electronic check,No,0,No,No,Yes,No,1,9.27,1,0,CUST51775,0,0.7525690863126,36,Payment-friction
+6,Month-to-month,49.69,271.08,Fiber optic,No,Yes,Yes,Credit card (auto),Yes,0,Yes,No,Yes,No,9,23.21,2,0,CUST56123,1,0.7489284943156048,37,Service-frustrated
+1,Month-to-month,47.27,44.79,Fiber optic,No,Yes,No,Electronic check,Yes,0,Yes,No,Yes,No,1,20.04,1,0,CUST50768,1,0.7478618261822183,38,Payment-friction
+14,Month-to-month,80.75,1045.4,Fiber optic,No,No,Yes,Electronic check,Yes,0,No,Yes,No,No phone service,4,5.43,1,1,CUST56201,0,0.7475277749650716,39,Service-frustrated
+1,Month-to-month,102.23,92.58,Fiber optic,No,No,No,Bank transfer (auto),No,0,Yes,Yes,Yes,No,1,4.27,0,1,CUST53656,1,0.746804109143672,40,Price-sensitive
+5,Month-to-month,47.14,243.56,Fiber optic,No,Yes,No,Electronic check,Yes,0,No,Yes,Yes,Yes,7,11.91,0,0,CUST54651,1,0.7448246265429979,41,Service-frustrated
+13,Month-to-month,95.97,1068.07,Fiber optic,No,No,No,Electronic check,No,0,Yes,No,Yes,No,1,13.69,2,0,CUST56522,0,0.7405180226065418,42,Payment-friction
+5,Month-to-month,78.28,339.24,Fiber optic,No,No,No,Bank transfer (auto),No,0,No,No,Yes,Yes,5,2.45,1,0,CUST55710,0,0.7376554016018828,43,Service-frustrated
+1,Month-to-month,96.05,98.72,DSL,No,No,No,Electronic check,No,0,Yes,No,Yes,No,3,4.45,0,0,CUST54268,0,0.7353848578407096,44,Service-frustrated
+4,Month-to-month,63.69,245.16,Fiber optic,Yes,No,No,Electronic check,Yes,0,Yes,Yes,Yes,Yes,0,37.6,0,2,CUST51467,1,0.731216534700128,45,Payment-friction
+1,Month-to-month,113.16,112.79,No,No internet service,No internet service,No internet service,Electronic check,No,0,No,Yes,Yes,Yes,1,0.0,0,1,CUST53383,1,0.7290083682412204,46,Payment-friction
+2,Month-to-month,112.09,201.44,No,No internet service,No internet service,No internet service,Electronic check,Yes,0,Yes,Yes,No,No phone service,0,0.0,1,2,CUST53481,1,0.7285899357281624,47,Payment-friction
+3,Month-to-month,90.06,279.66,DSL,No,No,Yes,Mailed check,No,0,Yes,Yes,Yes,Yes,4,63.64,1,0,CUST50839,1,0.7278922335086062,48,Service-frustrated
+2,Month-to-month,77.13,155.33,No,No internet service,No internet service,No internet service,Bank transfer (auto),Yes,0,Yes,No,Yes,Yes,9,0.0,0,0,CUST50073,1,0.7254468805328532,49,Service-frustrated
+1,Month-to-month,119.69,123.77,Fiber optic,No,Yes,No,Mailed check,Yes,0,No,No,No,No phone service,1,15.21,1,0,CUST53170,0,0.7252321869623058,50,Price-sensitive
+9,Month-to-month,66.75,545.49,Fiber optic,Yes,No,No,Credit card (auto),Yes,0,No,No,Yes,No,7,18.84,0,0,CUST50443,0,0.7244154335229647,51,Service-frustrated
+5,Month-to-month,52.03,234.64,DSL,No,No,No,Electronic check,No,0,No,No,Yes,No,6,36.12,0,0,CUST56611,1,0.7241640854459335,52,Service-frustrated
+14,Month-to-month,99.23,1430.82,Fiber optic,No,No,No,Mailed check,Yes,0,No,No,Yes,No,3,23.02,2,2,CUST54890,1,0.7240704531932873,53,Service-frustrated
+1,Two year,93.02,96.69,Fiber optic,No,No,No,Electronic check,Yes,0,No,Yes,Yes,No,7,48.59,0,0,CUST50196,1,0.7238851802963258,54,Service-frustrated
+4,Month-to-month,110.3,397.35,Fiber optic,No,No,Yes,Electronic check,Yes,1,Yes,Yes,Yes,No,0,75.73,0,0,CUST51981,1,0.7231511612098567,55,Payment-friction
+3,Month-to-month,91.14,275.69,No,No internet service,No internet service,No internet service,Electronic check,No,0,Yes,Yes,Yes,No,2,0.0,1,1,CUST55408,1,0.7215804902355463,56,Payment-friction
+3,Month-to-month,21.28,58.44,Fiber optic,No,No,No,Electronic check,Yes,1,No,Yes,Yes,Yes,2,15.41,0,0,CUST52735,0,0.7214632720074331,57,Payment-friction
+2,Month-to-month,89.39,171.4,DSL,No,No,Yes,Electronic check,No,0,No,No,Yes,Yes,2,35.27,0,0,CUST55385,1,0.7212963441889972,58,Payment-friction
+6,Month-to-month,106.54,610.97,No,No internet service,No internet service,No internet service,Electronic check,Yes,0,Yes,No,Yes,Yes,6,0.0,0,0,CUST53803,1,0.7205091236253989,59,Service-frustrated
+30,Month-to-month,102.96,2898.93,No,No internet service,No internet service,No internet service,Electronic check,No,0,Yes,Yes,Yes,No,6,0.0,0,0,CUST52840,1,0.7204968230256847,60,Service-frustrated
+9,Month-to-month,103.96,809.49,DSL,No,No,No,Electronic check,Yes,1,Yes,No,Yes,No,4,22.64,0,0,CUST56178,0,0.7196890761201092,61,Service-frustrated
+16,Month-to-month,41.39,678.9,Fiber optic,No,No,No,Mailed check,Yes,0,No,Yes,Yes,No,4,29.41,0,0,CUST55073,1,0.7193632866587937,62,Service-frustrated
+13,Month-to-month,101.19,1181.26,Fiber optic,No,No,No,Bank transfer (auto),Yes,0,Yes,No,Yes,No,1,28.55,0,1,CUST55389,0,0.718253725335254,63,Price-sensitive
+7,Month-to-month,65.42,419.86,DSL,Yes,No,No,Electronic check,Yes,0,Yes,Yes,Yes,Yes,4,18.11,1,0,CUST55897,1,0.718171630201546,64,Service-frustrated
+1,Month-to-month,90.23,91.43,Fiber optic,Yes,No,No,Mailed check,Yes,1,Yes,Yes,No,No phone service,3,98.31,1,0,CUST53404,0,0.7171681220044461,65,Service-frustrated
+6,Month-to-month,109.97,620.38,Fiber optic,Yes,No,Yes,Mailed check,Yes,0,Yes,No,Yes,No,1,5.5,1,0,CUST54359,1,0.7170712045338178,66,Price-sensitive
+7,Month-to-month,84.94,614.52,DSL,Yes,Yes,Yes,Electronic check,Yes,0,Yes,No,Yes,Yes,7,13.04,0,0,CUST50554,1,0.7162584035313957,67,Service-frustrated
+1,Month-to-month,35.92,37.4,Fiber optic,No,No,No,Electronic check,No,0,No,No,Yes,Yes,0,6.22,0,1,CUST54163,0,0.71422861886056,68,Payment-friction
+9,Month-to-month,113.7,1020.18,Fiber optic,No,Yes,No,Bank transfer (auto),Yes,0,No,Yes,Yes,Yes,4,18.87,0,2,CUST56430,0,0.7136724054427153,69,Service-frustrated
+12,Month-to-month,65.43,719.34,Fiber optic,No,No,Yes,Electronic check,Yes,0,Yes,No,Yes,No,2,23.6,0,0,CUST56418,1,0.71258348768286,70,Payment-friction
+3,Month-to-month,31.67,98.49,Fiber optic,No,Yes,Yes,Electronic check,Yes,1,Yes,No,Yes,Yes,3,36.43,0,0,CUST53676,1,0.7103446109089636,71,Service-frustrated
+1,Month-to-month,59.81,51.89,Fiber optic,Yes,Yes,No,Electronic check,No,0,No,Yes,Yes,No,1,89.72,0,1,CUST53865,1,0.7094123838473532,72,Payment-friction
+4,Month-to-month,94.61,344.95,Fiber optic,No,No,Yes,Mailed check,No,1,Yes,Yes,Yes,Yes,2,26.49,1,0,CUST51087,1,0.7082209034367292,73,New-customer onboarding
+8,Month-to-month,100.33,684.64,Fiber optic,No,No,Yes,Electronic check,No,0,Yes,No,No,No phone service,3,18.15,3,1,CUST53426,1,0.7072121740838407,74,Service-frustrated
+16,Month-to-month,116.93,1705.18,Fiber optic,Yes,No,No,Electronic check,Yes,0,Yes,No,No,No phone service,1,28.23,0,0,CUST53932,0,0.7070061874801012,75,Payment-friction
+8,Month-to-month,102.63,773.8,Fiber optic,Yes,Yes,No,Electronic check,Yes,0,Yes,No,Yes,No,4,63.31,0,0,CUST56471,1,0.7059978130931951,76,Service-frustrated
+17,Month-to-month,85.67,1294.93,Fiber optic,Yes,No,Yes,Electronic check,Yes,0,Yes,No,No,No phone service,2,19.73,0,1,CUST56919,0,0.7050091048693531,77,Payment-friction
+3,Month-to-month,81.2,210.07,DSL,Yes,No,No,Electronic check,Yes,1,Yes,No,Yes,Yes,3,20.25,0,0,CUST53604,0,0.7047559300785846,78,Service-frustrated
+31,Month-to-month,56.0,1688.11,Fiber optic,Yes,No,Yes,Electronic check,No,0,Yes,Yes,Yes,Yes,6,31.54,0,0,CUST56860,1,0.7041254014924831,79,Service-frustrated
+1,Month-to-month,26.13,22.31,No,No internet service,No internet service,No internet service,Electronic check,Yes,0,No,Yes,Yes,No,3,0.0,0,0,CUST51577,1,0.7020018643114406,80,Service-frustrated
+4,Month-to-month,47.44,196.62,Fiber optic,No,No,No,Electronic check,No,0,Yes,No,Yes,Yes,0,21.42,1,1,CUST54327,1,0.7019650434391701,81,Payment-friction
+9,Month-to-month,95.99,752.92,Fiber optic,Yes,No,No,Mailed check,Yes,0,No,No,Yes,Yes,2,17.19,0,1,CUST56335,0,0.7017896008082279,82,Price-sensitive
+9,Month-to-month,100.83,882.2,Fiber optic,No,No,No,Mailed check,Yes,0,No,No,Yes,Yes,2,6.89,0,1,CUST50275,0,0.7015890687220788,83,Price-sensitive
+2,Month-to-month,30.34,62.7,DSL,No,No,No,Credit card (auto),No,0,Yes,No,Yes,Yes,9,27.09,0,0,CUST54203,0,0.700868564141819,84,Service-frustrated
+17,Month-to-month,63.92,1027.29,Fiber optic,No,No,No,Mailed check,No,0,Yes,Yes,Yes,Yes,6,13.83,0,1,CUST55848,1,0.7007415488159638,85,Service-frustrated
+10,Month-to-month,102.23,941.39,DSL,Yes,No,Yes,Credit card (auto),Yes,0,No,No,Yes,No,4,27.7,0,1,CUST54912,0,0.6995477270811531,86,Service-frustrated
+7,Month-to-month,33.43,224.84,Fiber optic,Yes,No,No,Mailed check,No,0,No,Yes,Yes,No,12,20.27,0,0,CUST50023,1,0.6995285922903521,87,Service-frustrated
+9,Month-to-month,118.12,906.39,Fiber optic,Yes,No,No,Credit card (auto),Yes,0,Yes,No,Yes,No,3,14.27,0,0,CUST53400,1,0.6984543000657246,88,Service-frustrated
+1,Month-to-month,62.0,64.33,DSL,No,No,No,Electronic check,No,0,Yes,Yes,Yes,No,1,21.68,2,0,CUST54279,1,0.6982391226170844,89,Payment-friction
+2,Month-to-month,37.56,74.13,DSL,No,No,No,Electronic check,No,0,Yes,No,Yes,Yes,0,22.56,0,0,CUST55433,1,0.6968681318287017,90,Payment-friction
+4,Month-to-month,25.88,101.61,No,No internet service,No internet service,No internet service,Electronic check,No,0,Yes,No,Yes,No,3,0.0,1,2,CUST52677,1,0.6965622205453783,91,Service-frustrated
+2,Month-to-month,71.89,127.38,Fiber optic,No,No,Yes,Mailed check,Yes,0,No,No,Yes,No,0,23.47,0,0,CUST52525,1,0.6961587204034723,92,New-customer onboarding
+7,Month-to-month,37.46,264.97,Fiber optic,No,No,No,Bank transfer (auto),No,0,No,No,Yes,No,8,8.94,0,0,CUST53513,0,0.6952675147121762,93,Service-frustrated
+16,Month-to-month,42.57,686.01,Fiber optic,No,No,No,Bank transfer (auto),No,0,No,Yes,Yes,No,4,15.77,0,0,CUST54165,0,0.6943587577756947,94,Service-frustrated
+1,Month-to-month,39.34,35.31,DSL,No,No,No,Electronic check,Yes,0,Yes,No,Yes,Yes,1,22.3,0,1,CUST56799,1,0.6931239815030001,95,Payment-friction
+12,Month-to-month,106.37,1151.41,Fiber optic,No,No,No,Credit card (auto),No,0,Yes,Yes,Yes,No,4,56.01,1,0,CUST54926,1,0.6928219082597897,96,Service-frustrated
+5,Month-to-month,109.29,570.0,Fiber optic,No,No,No,Mailed check,Yes,1,Yes,No,Yes,Yes,0,55.01,0,2,CUST56764,0,0.692520349409365,97,Price-sensitive
+1,Month-to-month,80.03,74.04,DSL,No,No,No,Electronic check,No,1,Yes,No,Yes,No,2,10.99,0,0,CUST56599,1,0.6922864584350595,98,Payment-friction
+10,Month-to-month,112.07,1003.61,DSL,Yes,No,No,Credit card (auto),No,0,No,No,Yes,No,7,26.03,0,0,CUST53334,0,0.6919002863278441,99,Service-frustrated
+2,Month-to-month,103.14,211.85,DSL,No,No,No,Electronic check,No,0,No,No,Yes,Yes,1,16.99,2,0,CUST54742,1,0.6913552050287507,100,Payment-friction
+8,Month-to-month,106.64,740.47,Fiber optic,Yes,No,No,Electronic check,Yes,0,No,No,Yes,Yes,0,29.91,0,2,CUST56933,1,0.6912853162125683,101,Payment-friction
+1,Month-to-month,68.5,64.21,Fiber optic,No,No,No,Bank transfer (auto),Yes,0,Yes,Yes,Yes,No,2,24.39,1,0,CUST53774,0,0.6907953500608102,102,New-customer onboarding
+1,Month-to-month,102.6,91.57,Fiber optic,No,Yes,Yes,Mailed check,Yes,0,Yes,Yes,Yes,Yes,1,24.98,0,1,CUST54764,1,0.6895976071645608,103,Price-sensitive
+6,Month-to-month,51.68,279.95,Fiber optic,No,No,Yes,Electronic check,Yes,1,No,Yes,Yes,No,2,64.49,1,0,CUST51134,0,0.6891440219311344,104,Payment-friction
+23,Month-to-month,85.18,1997.37,Fiber optic,No,No,No,Mailed check,Yes,0,Yes,Yes,Yes,No,1,43.45,0,0,CUST55095,0,0.6889220395357805,105,General high-risk
+4,Month-to-month,98.57,371.95,No,No internet service,No internet service,No internet service,Electronic check,Yes,0,Yes,Yes,Yes,No,3,0.0,0,0,CUST56060,1,0.6882598492662128,106,Service-frustrated
+6,Month-to-month,85.79,460.91,Fiber optic,Yes,No,No,Bank transfer (auto),No,0,Yes,No,Yes,No,1,38.74,0,0,CUST51224,1,0.68782799337373,107,New-customer onboarding
+20,Month-to-month,72.77,1301.72,Fiber optic,No,No,No,Credit card (auto),No,0,Yes,No,Yes,No,8,5.37,1,0,CUST56344,0,0.6878058355348778,108,Service-frustrated
+1,Two year,115.88,106.62,Fiber optic,Yes,Yes,No,Electronic check,Yes,0,No,Yes,Yes,Yes,4,96.13,0,0,CUST50097,0,0.6874891353403716,109,Service-frustrated
+18,Month-to-month,68.08,1052.95,Fiber optic,No,No,No,Electronic check,Yes,1,Yes,Yes,Yes,No,2,76.45,0,0,CUST53162,1,0.6869924352773553,110,Payment-friction
+28,Month-to-month,40.23,989.81,Fiber optic,No,No,No,Mailed check,Yes,0,Yes,Yes,Yes,No,2,16.45,1,0,CUST54809,0,0.686966852038134,111,General high-risk
+16,Month-to-month,37.33,609.85,Fiber optic,No,Yes,Yes,Electronic check,No,0,Yes,No,Yes,No,7,23.51,0,0,CUST55380,0,0.6863927552756133,112,Service-frustrated
+2,Month-to-month,82.96,145.76,DSL,Yes,No,No,Bank transfer (auto),No,0,No,No,Yes,Yes,3,16.58,1,1,CUST51394,1,0.6859989248309709,113,Service-frustrated
+29,Month-to-month,67.21,1707.82,No,No internet service,No internet service,No internet service,Electronic check,Yes,0,Yes,Yes,Yes,Yes,4,0.0,0,0,CUST52276,0,0.6859739896038006,114,Service-frustrated
+4,Month-to-month,30.22,123.55,Fiber optic,No,No,Yes,Electronic check,Yes,1,Yes,No,Yes,Yes,1,99.53,0,1,CUST52894,0,0.6851290673617324,115,Payment-friction
+2,Month-to-month,52.75,104.1,No,No internet service,No internet service,No internet service,Electronic check,No,0,No,No,Yes,Yes,1,0.0,0,0,CUST53757,0,0.6850488586806537,116,Payment-friction
+3,Month-to-month,43.69,111.8,DSL,No,No,Yes,Electronic check,No,0,Yes,Yes,Yes,Yes,0,13.64,0,1,CUST56872,0,0.6839284808743412,117,Payment-friction
+1,Month-to-month,63.85,61.36,DSL,Yes,No,Yes,Electronic check,Yes,0,Yes,Yes,Yes,No,1,56.25,0,0,CUST55241,0,0.6835844546767917,118,Payment-friction
+22,Month-to-month,118.91,2366.23,Fiber optic,No,No,No,Electronic check,No,1,No,Yes,Yes,No,2,14.79,1,1,CUST50841,0,0.6835791725954584,119,Payment-friction
+1,Month-to-month,75.85,69.15,DSL,Yes,Yes,No,Electronic check,No,0,Yes,No,Yes,Yes,2,8.88,1,0,CUST52978,0,0.6831915141031314,120,Payment-friction
+10,Month-to-month,109.55,1059.03,DSL,No,Yes,Yes,Bank transfer (auto),Yes,1,Yes,Yes,Yes,Yes,4,18.36,0,0,CUST55652,1,0.6830158168166761,121,Service-frustrated
+1,Month-to-month,113.68,102.7,Fiber optic,Yes,Yes,No,Credit card (auto),No,0,No,Yes,No,No phone service,2,9.74,0,0,CUST56632,1,0.6826097274983276,122,Price-sensitive
+16,Month-to-month,63.12,992.43,Fiber optic,Yes,No,No,Credit card (auto),No,0,No,No,No,No phone service,4,13.85,0,1,CUST51359,0,0.6821673093507399,123,Service-frustrated
+8,Month-to-month,104.86,796.73,Fiber optic,No,No,No,Electronic check,Yes,0,No,Yes,Yes,Yes,1,40.59,0,0,CUST52539,1,0.6815571104541069,124,Payment-friction
+1,Month-to-month,78.15,72.79,DSL,No,No,No,Electronic check,No,0,No,No,Yes,No,0,17.58,1,0,CUST51400,1,0.6810365450468652,125,Payment-friction
+3,Month-to-month,119.67,318.59,DSL,Yes,No,No,Mailed check,Yes,0,Yes,Yes,Yes,Yes,3,19.86,0,0,CUST55816,1,0.6802356494413457,126,Service-frustrated
+35,Month-to-month,113.89,3893.88,Fiber optic,Yes,No,No,Mailed check,Yes,0,Yes,Yes,Yes,Yes,4,15.96,0,2,CUST51220,0,0.6802204995940356,127,Service-frustrated
+1,Month-to-month,88.79,80.4,DSL,No,No,No,Credit card (auto),No,0,No,No,Yes,No,0,27.59,0,0,CUST53956,0,0.6791282766971046,128,New-customer onboarding
+16,Month-to-month,95.46,1357.2,Fiber optic,No,No,Yes,Bank transfer (auto),Yes,1,Yes,No,Yes,No,1,14.85,1,1,CUST53026,0,0.6789990362349154,129,Price-sensitive
+15,Month-to-month,49.85,699.77,Fiber optic,No,No,No,Electronic check,Yes,0,No,No,Yes,No,2,26.88,1,0,CUST54451,0,0.6789955539205423,130,Payment-friction
+20,Month-to-month,20.14,379.47,Fiber optic,Yes,No,No,Bank transfer (auto),No,0,Yes,No,Yes,No,9,34.74,0,1,CUST56649,1,0.6787674876228307,131,Service-frustrated
+18,Month-to-month,115.64,2088.35,Fiber optic,Yes,Yes,Yes,Credit card (auto),No,0,Yes,No,Yes,Yes,5,21.95,0,0,CUST51622,0,0.6776277435324072,132,Service-frustrated
+15,Month-to-month,95.42,1270.62,DSL,No,No,No,Bank transfer (auto),No,0,No,No,Yes,No,4,20.63,1,1,CUST56619,1,0.677398421623965,133,Service-frustrated
+8,Month-to-month,98.14,745.95,Fiber optic,Yes,No,Yes,Electronic check,Yes,0,Yes,Yes,Yes,No,0,3.96,1,1,CUST52774,1,0.677377168836664,134,Payment-friction
+6,Month-to-month,110.91,675.32,No,No internet service,No internet service,No internet service,Electronic check,No,1,No,Yes,Yes,Yes,7,0.0,0,0,CUST54396,1,0.6771211395642669,135,Service-frustrated
+21,Month-to-month,27.5,583.89,Fiber optic,No,No,No,Mailed check,Yes,0,Yes,No,Yes,Yes,1,18.3,0,0,CUST55449,1,0.6765234552954814,136,General high-risk
+1,Month-to-month,64.39,56.88,Fiber optic,No,No,No,Mailed check,No,0,Yes,No,No,No phone service,1,34.22,0,1,CUST54300,0,0.6754998313497316,137,New-customer onboarding
+3,Month-to-month,37.47,110.84,DSL,Yes,No,Yes,Credit card (auto),No,1,No,No,Yes,No,4,6.43,0,1,CUST51973,0,0.6746808211629695,138,Service-frustrated
+8,Month-to-month,102.87,741.37,No,No internet service,No internet service,No internet service,Electronic check,No,0,Yes,Yes,Yes,No,2,0.0,0,1,CUST52939,1,0.6740813514107614,139,Payment-friction
+7,Month-to-month,69.57,509.2,Fiber optic,No,Yes,Yes,Bank transfer (auto),No,1,Yes,No,Yes,No,5,12.98,0,2,CUST55936,0,0.6739731711343745,140,Service-frustrated
+24,Month-to-month,107.14,2367.11,No,No internet service,No internet service,No internet service,Bank transfer (auto),Yes,0,Yes,Yes,Yes,No,8,0.0,1,0,CUST51912,1,0.6736078144016285,141,Service-frustrated
+14,Month-to-month,81.84,1158.27,Fiber optic,No,Yes,No,Electronic check,No,0,No,No,Yes,No,1,19.15,0,0,CUST56104,0,0.6735941860513388,142,Payment-friction
+16,Month-to-month,110.69,1567.58,Fiber optic,No,No,Yes,Electronic check,No,1,No,Yes,Yes,No,1,15.78,0,0,CUST51405,1,0.673251133249377,143,Payment-friction
+18,Month-to-month,70.59,1230.5,Fiber optic,No,No,Yes,Electronic check,Yes,0,Yes,No,Yes,No,1,6.99,0,0,CUST51391,1,0.6730061608205665,144,Payment-friction
+7,Month-to-month,25.92,154.89,Fiber optic,Yes,Yes,No,Electronic check,Yes,1,No,No,Yes,No,3,32.07,0,1,CUST56713,1,0.6729607826742972,145,Service-frustrated
+16,Month-to-month,30.75,498.11,Fiber optic,No,No,Yes,Bank transfer (auto),Yes,0,Yes,Yes,Yes,No,2,21.36,0,0,CUST51818,0,0.6727942013021803,146,General high-risk
+13,Month-to-month,117.56,1552.53,DSL,Yes,No,No,Electronic check,No,1,No,No,Yes,No,4,10.72,1,0,CUST52831,1,0.6723043022200147,147,Service-frustrated
+29,Month-to-month,79.26,2115.81,Fiber optic,No,No,No,Mailed check,No,0,No,No,Yes,No,0,16.39,2,1,CUST50224,1,0.6721896508004787,148,Payment-friction
+4,Month-to-month,36.66,152.04,Fiber optic,No,Yes,No,Electronic check,No,0,Yes,No,Yes,Yes,1,7.95,0,0,CUST54841,1,0.671941045245599,149,Payment-friction
+9,Month-to-month,92.26,812.06,Fiber optic,No,No,Yes,Mailed check,Yes,1,Yes,No,Yes,No,0,37.42,1,2,CUST56708,1,0.6717925641487699,150,General high-risk
+26,Month-to-month,21.12,547.17,Fiber optic,No,No,No,Mailed check,Yes,0,No,No,Yes,No,3,19.88,1,0,CUST55414,0,0.6706072369519819,151,Service-frustrated
+3,Month-to-month,63.05,172.02,DSL,Yes,No,Yes,Electronic check,Yes,0,Yes,Yes,Yes,Yes,1,33.9,0,1,CUST54530,1,0.6704024081855198,152,Payment-friction
+4,Month-to-month,90.4,365.44,Fiber optic,No,Yes,Yes,Bank transfer (auto),No,1,No,No,No,No phone service,2,22.05,0,0,CUST53543,1,0.6698728826290257,153,New-customer onboarding
+12,Month-to-month,74.41,887.32,Fiber optic,No,No,No,Electronic check,Yes,1,No,Yes,Yes,No,2,9.13,1,0,CUST53221,0,0.6698180789808852,154,Payment-friction
+11,Month-to-month,86.35,831.69,Fiber optic,No,Yes,No,Credit card (auto),Yes,0,Yes,No,Yes,Yes,3,14.32,1,2,CUST56366,0,0.6688906222728853,155,Service-frustrated
+1,Month-to-month,109.29,114.69,No,No internet service,No internet service,No internet service,Bank transfer (auto),No,0,No,No,Yes,Yes,1,0.0,0,0,CUST54221,1,0.6682558568343852,156,Price-sensitive
+17,Month-to-month,71.75,1171.89,Fiber optic,No,No,Yes,Mailed check,Yes,1,No,Yes,Yes,Yes,3,34.23,0,0,CUST53959,1,0.6680485878564452,157,Service-frustrated
+6,Month-to-month,116.47,698.33,Fiber optic,Yes,No,No,Bank transfer (auto),Yes,0,No,No,Yes,No,1,14.51,1,1,CUST52447,0,0.6676614966143448,158,Price-sensitive
+13,Month-to-month,88.76,1098.63,Fiber optic,No,Yes,No,Bank transfer (auto),Yes,0,Yes,Yes,Yes,Yes,2,24.35,2,0,CUST55373,1,0.6671304981765812,159,Payment-friction
+21,Month-to-month,61.24,1252.12,Fiber optic,No,No,Yes,Electronic check,No,0,Yes,No,Yes,Yes,2,75.42,0,0,CUST51851,1,0.6662808669678241,160,Payment-friction
+20,Month-to-month,54.59,1118.67,Fiber optic,No,No,Yes,Electronic check,Yes,0,Yes,No,Yes,No,1,48.22,0,0,CUST51650,0,0.6661208845700586,161,Payment-friction
+14,Month-to-month,114.83,1662.57,Fiber optic,No,Yes,Yes,Credit card (auto),No,0,Yes,No,Yes,Yes,4,37.95,0,1,CUST53961,1,0.6660122181494781,162,Service-frustrated
+31,Month-to-month,119.56,3226.16,Fiber optic,No,No,No,Electronic check,No,0,Yes,No,Yes,No,0,27.12,1,0,CUST52674,1,0.66600963818692,163,Payment-friction
+15,Month-to-month,32.97,496.18,Fiber optic,No,No,Yes,Bank transfer (auto),Yes,0,No,Yes,Yes,No,3,23.6,0,1,CUST55457,0,0.6651216326786055,164,Service-frustrated
+4,Month-to-month,55.63,196.12,Fiber optic,No,No,No,Bank transfer (auto),Yes,0,No,No,Yes,Yes,1,19.35,0,1,CUST54100,1,0.6646858428261071,165,New-customer onboarding
+19,Month-to-month,68.22,1201.36,Fiber optic,No,No,No,Credit card (auto),Yes,0,No,Yes,Yes,No,1,31.1,0,0,CUST51169,0,0.6644698663519827,166,General high-risk
+30,Month-to-month,114.94,3024.51,Fiber optic,No,Yes,No,Credit card (auto),Yes,0,No,No,Yes,Yes,2,17.25,0,0,CUST55441,0,0.6644190302191296,167,Price-sensitive
+11,Month-to-month,79.17,785.62,Fiber optic,No,No,Yes,Credit card (auto),No,1,Yes,No,Yes,Yes,1,19.98,0,0,CUST50325,0,0.6643508466601291,168,General high-risk
+4,Month-to-month,89.83,339.9,Fiber optic,No,No,No,Credit card (auto),No,0,Yes,Yes,Yes,Yes,0,27.07,1,1,CUST55005,1,0.6642674776116254,169,New-customer onboarding
+5,Month-to-month,75.35,373.56,DSL,No,Yes,Yes,Electronic check,No,0,No,No,Yes,No,5,14.41,0,1,CUST50993,0,0.663978750571346,170,Service-frustrated
+39,Month-to-month,45.6,1512.97,Fiber optic,No,No,No,Electronic check,No,0,No,No,No,No phone service,9,50.66,0,0,CUST55712,1,0.6639703494915454,171,Service-frustrated
+21,Month-to-month,85.59,1654.07,Fiber optic,No,No,No,Electronic check,No,0,No,Yes,Yes,Yes,1,39.87,0,0,CUST56997,1,0.6639362251029242,172,Payment-friction
+1,Month-to-month,109.44,99.65,No,No internet service,No internet service,No internet service,Credit card (auto),No,1,No,No,Yes,Yes,2,0.0,0,0,CUST52430,1,0.6632590121220189,173,Price-sensitive
+29,Month-to-month,35.24,1032.47,Fiber optic,No,No,No,Electronic check,Yes,0,Yes,No,No,No phone service,0,23.42,0,0,CUST50009,0,0.6618368374721278,174,Payment-friction
+7,Month-to-month,40.21,268.05,Fiber optic,No,No,No,Credit card (auto),Yes,1,Yes,No,Yes,Yes,0,29.4,0,0,CUST53063,1,0.6612272469733261,175,General high-risk
+26,Month-to-month,62.83,1681.95,Fiber optic,No,No,No,Electronic check,No,1,Yes,Yes,Yes,No,2,10.24,1,0,CUST55388,1,0.6601933237965967,176,Payment-friction
+30,Month-to-month,86.34,2481.36,Fiber optic,No,No,Yes,Electronic check,No,0,No,No,Yes,Yes,1,15.41,0,0,CUST51473,1,0.6601041628362454,177,Payment-friction
+1,Month-to-month,68.02,63.25,Fiber optic,Yes,No,Yes,Credit card (auto),No,0,No,No,Yes,Yes,1,31.38,0,0,CUST56971,1,0.6599026756025759,178,New-customer onboarding
+2,Month-to-month,83.69,159.82,DSL,No,No,No,Bank transfer (auto),No,0,Yes,Yes,Yes,No,1,21.62,0,0,CUST51329,0,0.6598786786211462,179,New-customer onboarding
+7,Month-to-month,29.94,191.22,Fiber optic,No,No,No,Electronic check,No,0,Yes,No,No,No phone service,0,10.95,1,1,CUST55258,1,0.6598166793408469,180,Payment-friction
+9,Month-to-month,66.33,524.66,Fiber optic,No,No,No,Credit card (auto),No,0,Yes,No,Yes,No,1,10.3,0,0,CUST56266,0,0.6593819465482664,181,General high-risk
+11,Month-to-month,71.19,796.32,Fiber optic,No,Yes,Yes,Electronic check,No,0,Yes,No,Yes,Yes,4,6.44,0,1,CUST50230,1,0.6590799255832147,182,Service-frustrated
+20,Month-to-month,89.14,1655.61,Fiber optic,No,No,No,Electronic check,No,0,No,Yes,Yes,Yes,1,39.95,0,0,CUST53536,1,0.6589530251403163,183,Payment-friction
+16,Month-to-month,101.58,1425.31,Fiber optic,No,Yes,Yes,Electronic check,Yes,0,Yes,No,Yes,Yes,2,56.63,0,2,CUST54247,0,0.6584163276416883,184,Payment-friction
+5,Month-to-month,40.96,183.87,Fiber optic,No,Yes,Yes,Electronic check,No,0,Yes,Yes,Yes,No,1,18.39,1,1,CUST51064,1,0.658299074917376,185,Payment-friction
+25,Month-to-month,31.46,819.41,Fiber optic,No,Yes,No,Credit card (auto),Yes,0,Yes,No,Yes,No,11,58.17,0,2,CUST50288,1,0.6578696650955151,186,Service-frustrated
+5,Month-to-month,93.54,461.07,No,No internet service,No internet service,No internet service,Electronic check,Yes,1,Yes,No,Yes,No,1,0.0,0,0,CUST50118,1,0.6571905221433566,187,Payment-friction
+6,One year,88.89,517.6,Fiber optic,No,No,No,Electronic check,No,0,No,No,Yes,No,6,27.44,0,0,CUST54862,1,0.6571829993371445,188,Service-frustrated
+1,Month-to-month,68.71,67.81,Fiber optic,Yes,Yes,No,Credit card (auto),No,0,No,No,No,No phone service,3,18.28,0,0,CUST51879,1,0.6571785434431645,189,Service-frustrated
+4,Month-to-month,91.15,324.06,No,No internet service,No internet service,No internet service,Electronic check,No,1,No,No,Yes,Yes,1,0.0,0,1,CUST53639,1,0.656989989460242,190,Payment-friction
+3,Two year,33.0,103.08,Fiber optic,Yes,No,No,Electronic check,No,0,No,Yes,Yes,No,11,72.32,1,2,CUST51424,1,0.6567403425827218,191,Service-frustrated
+5,Month-to-month,117.06,563.99,Fiber optic,Yes,No,No,Mailed check,No,1,Yes,Yes,Yes,No,0,25.96,0,0,CUST51201,0,0.6566586556688353,192,Price-sensitive
+22,Month-to-month,38.51,730.52,Fiber optic,No,No,No,Credit card (auto),Yes,0,Yes,Yes,Yes,No,1,71.85,0,1,CUST55626,1,0.6553627259116349,193,General high-risk
+36,Month-to-month,80.16,2866.4,Fiber optic,No,No,No,Electronic check,Yes,0,No,Yes,No,No phone service,4,115.0,1,0,CUST50803,1,0.6551575673337355,194,Service-frustrated
+17,Month-to-month,48.37,789.78,No,No internet service,No internet service,No internet service,Electronic check,Yes,0,No,Yes,Yes,Yes,6,0.0,0,0,CUST54810,0,0.6546829257703318,195,Service-frustrated
+3,Month-to-month,60.77,165.24,DSL,Yes,No,No,Bank transfer (auto),Yes,0,No,Yes,Yes,Yes,3,13.17,1,1,CUST54815,1,0.6539985755663913,196,Service-frustrated
+3,Month-to-month,70.2,199.75,DSL,Yes,No,Yes,Electronic check,Yes,0,Yes,No,Yes,No,0,14.13,0,0,CUST50767,0,0.6535197755795435,197,Payment-friction
+17,Month-to-month,68.9,1142.57,No,No internet service,No internet service,No internet service,Bank transfer (auto),Yes,0,No,Yes,Yes,Yes,4,0.0,1,0,CUST54904,0,0.6531794717987033,198,Service-frustrated
+30,Month-to-month,93.05,2681.68,DSL,No,No,No,Electronic check,Yes,0,Yes,Yes,Yes,Yes,4,54.78,0,0,CUST56118,0,0.6529399322914442,199,Service-frustrated
+14,Month-to-month,29.73,390.64,Fiber optic,No,No,Yes,Credit card (auto),Yes,0,No,No,Yes,Yes,2,29.41,1,0,CUST55162,1,0.6528828686784167,200,General high-risk
+7,Month-to-month,83.23,586.65,Fiber optic,No,No,Yes,Credit card (auto),Yes,0,No,No,No,No phone service,0,92.18,0,0,CUST51670,1,0.652643335167436,201,General high-risk
+20,Month-to-month,24.29,484.35,Fiber optic,No,No,No,Bank transfer (auto),Yes,0,Yes,No,Yes,No,3,33.55,0,0,CUST50474,0,0.6524929527776261,202,Service-frustrated
+14,Month-to-month,45.77,611.65,Fiber optic,No,No,No,Credit card (auto),Yes,0,No,No,Yes,Yes,3,17.49,0,0,CUST52710,1,0.6524074622091937,203,Service-frustrated
+2,Month-to-month,50.06,86.89,Fiber optic,No,No,Yes,Mailed check,Yes,0,No,Yes,Yes,Yes,1,43.57,1,0,CUST54765,0,0.6523806240539715,204,New-customer onboarding
+1,Month-to-month,118.09,115.65,DSL,No,No,Yes,Mailed check,No,0,No,No,Yes,No,1,61.21,0,0,CUST51369,0,0.6522867902054905,205,Price-sensitive
+12,Month-to-month,113.37,1377.61,Fiber optic,No,No,No,Bank transfer (auto),Yes,0,Yes,No,Yes,Yes,1,33.22,1,1,CUST54366,0,0.6522006630118685,206,Price-sensitive
+2,Month-to-month,33.13,63.17,DSL,Yes,No,No,Electronic check,Yes,0,Yes,Yes,Yes,Yes,1,14.77,0,1,CUST52771,1,0.651016098648819,207,Payment-friction
+6,Month-to-month,29.13,156.16,Fiber optic,No,Yes,No,Electronic check,No,0,No,No,Yes,Yes,1,6.38,3,1,CUST54681,1,0.6509501968036924,208,Payment-friction
+25,Month-to-month,27.6,622.56,Fiber optic,No,No,No,Credit card (auto),Yes,0,No,Yes,No,No phone service,1,20.94,0,2,CUST53658,1,0.6504776530661047,209,General high-risk
+1,Month-to-month,115.43,117.11,DSL,Yes,Yes,No,Bank transfer (auto),No,0,No,Yes,No,No phone service,1,2.06,1,2,CUST52330,0,0.6503030493725112,210,Price-sensitive
+7,Month-to-month,45.16,310.21,Fiber optic,No,Yes,Yes,Credit card (auto),No,0,Yes,No,Yes,Yes,4,18.83,0,0,CUST52747,1,0.649846215916941,211,Service-frustrated
+30,Month-to-month,110.15,3081.99,Fiber optic,No,No,No,Mailed check,Yes,1,Yes,No,Yes,No,2,80.51,1,0,CUST56913,1,0.6497533188680589,212,Price-sensitive
+14,Month-to-month,73.3,1050.86,DSL,No,No,No,Bank transfer (auto),Yes,0,No,Yes,Yes,Yes,9,4.28,0,3,CUST56165,0,0.649550597212922,213,Service-frustrated
+1,Month-to-month,58.61,51.94,Fiber optic,No,Yes,No,Credit card (auto),No,0,Yes,No,Yes,Yes,3,19.7,0,0,CUST56781,0,0.6494743146898613,214,Service-frustrated
+10,Month-to-month,100.27,981.17,Fiber optic,No,Yes,No,Mailed check,Yes,0,Yes,Yes,Yes,Yes,2,16.11,1,1,CUST54138,0,0.6489477977240254,215,Price-sensitive
+8,Month-to-month,28.9,234.06,Fiber optic,No,No,Yes,Credit card (auto),Yes,0,No,Yes,Yes,Yes,0,14.36,2,0,CUST51950,0,0.6481482121854886,216,Payment-friction
+1,Month-to-month,71.81,63.81,Fiber optic,No,No,No,Bank transfer (auto),No,0,No,Yes,Yes,No,1,30.27,0,0,CUST53214,1,0.6478244502525123,217,New-customer onboarding
+9,Month-to-month,67.32,574.64,Fiber optic,No,No,Yes,Electronic check,Yes,1,No,No,Yes,Yes,0,18.19,1,0,CUST53534,1,0.6476780272195419,218,Payment-friction
+4,Month-to-month,29.93,116.14,Fiber optic,Yes,No,No,Electronic check,Yes,0,No,Yes,Yes,Yes,0,63.99,0,0,CUST53023,1,0.6474866025484483,219,Payment-friction
+2,Month-to-month,43.12,80.72,DSL,No,Yes,Yes,Electronic check,Yes,0,Yes,Yes,Yes,No,0,9.1,0,0,CUST56605,1,0.6474780775637484,220,Payment-friction
+1,Month-to-month,23.73,24.09,DSL,No,No,No,Bank transfer (auto),Yes,0,Yes,No,Yes,No,2,18.82,2,0,CUST51309,1,0.6473346769158597,221,Payment-friction
+15,Month-to-month,43.59,653.66,Fiber optic,No,No,No,Mailed check,Yes,1,Yes,Yes,Yes,Yes,1,7.47,0,0,CUST56497,1,0.6470039370064096,222,General high-risk
+14,Month-to-month,34.35,434.75,Fiber optic,No,No,No,Mailed check,No,0,Yes,No,Yes,No,3,18.99,0,0,CUST54731,1,0.6467640919996286,223,Service-frustrated
+31,Month-to-month,99.89,2744.79,Fiber optic,No,Yes,No,Credit card (auto),Yes,1,Yes,Yes,Yes,No,3,11.28,0,0,CUST53171,1,0.6461547647983626,224,Service-frustrated
+33,Month-to-month,108.02,3509.27,Fiber optic,No,No,Yes,Electronic check,No,0,No,No,Yes,Yes,1,25.37,0,2,CUST54989,1,0.6455224610252474,225,Payment-friction
+27,Month-to-month,112.9,3187.14,Fiber optic,Yes,No,Yes,Electronic check,Yes,0,No,No,Yes,Yes,2,8.23,0,0,CUST53551,1,0.6449511548830028,226,Payment-friction
+2,One year,72.45,124.86,Fiber optic,Yes,No,No,Electronic check,Yes,0,No,No,Yes,No,5,7.22,0,0,CUST52127,1,0.6447249349264151,227,Service-frustrated
+4,Month-to-month,101.97,355.19,Fiber optic,No,No,No,Bank transfer (auto),No,0,No,Yes,Yes,No,1,43.87,0,1,CUST56353,1,0.6444619801520929,228,Price-sensitive
+19,Month-to-month,31.33,567.05,Fiber optic,No,No,Yes,Mailed check,Yes,0,No,No,Yes,No,1,14.15,0,0,CUST52505,1,0.6444406876465878,229,General high-risk
+29,Month-to-month,107.82,2946.11,Fiber optic,No,Yes,No,Credit card (auto),Yes,0,No,No,Yes,Yes,1,7.49,0,0,CUST56116,1,0.6441003666583337,230,Price-sensitive
+21,Month-to-month,38.74,706.66,Fiber optic,No,No,Yes,Electronic check,Yes,0,No,No,Yes,No,1,26.5,0,1,CUST55513,1,0.6438425029716988,231,Payment-friction
+4,Month-to-month,53.37,190.06,DSL,No,No,Yes,Electronic check,No,0,No,Yes,Yes,No,0,40.56,0,0,CUST54034,1,0.6413995595605726,232,Payment-friction
+19,Month-to-month,77.01,1291.68,Fiber optic,Yes,No,No,Bank transfer (auto),Yes,0,Yes,Yes,Yes,Yes,2,34.73,0,1,CUST51896,0,0.6411570030085101,233,General high-risk
+7,Month-to-month,96.59,604.71,Fiber optic,Yes,Yes,No,Credit card (auto),Yes,0,No,No,Yes,Yes,1,7.16,1,0,CUST55348,0,0.6403190438350151,234,Price-sensitive
+9,Month-to-month,118.63,933.4,Fiber optic,No,No,Yes,Mailed check,No,0,Yes,No,Yes,No,2,39.75,1,0,CUST53477,1,0.6397461481844222,235,Price-sensitive
+7,Month-to-month,29.28,185.62,No,No internet service,No internet service,No internet service,Electronic check,Yes,0,No,No,Yes,Yes,3,0.0,1,0,CUST55194,0,0.6396467014134418,236,Service-frustrated
+10,Month-to-month,92.02,921.29,No,No internet service,No internet service,No internet service,Electronic check,Yes,0,Yes,Yes,Yes,No,1,0.0,0,1,CUST52606,0,0.6396455953886124,237,Payment-friction
+1,Month-to-month,117.61,100.33,DSL,No,Yes,No,Bank transfer (auto),No,0,No,Yes,Yes,No,1,13.47,0,0,CUST55572,0,0.6394437515830239,238,Price-sensitive
+24,Month-to-month,95.17,2384.2,Fiber optic,No,No,Yes,Credit card (auto),Yes,1,Yes,No,Yes,Yes,2,67.34,0,0,CUST53788,0,0.6391925309363887,239,Price-sensitive
+5,Month-to-month,118.84,527.96,Fiber optic,No,Yes,Yes,Mailed check,Yes,1,No,Yes,No,No phone service,1,37.29,1,0,CUST51316,1,0.6387850908366556,240,Price-sensitive
+2,Month-to-month,109.75,212.19,No,No internet service,No internet service,No internet service,Mailed check,Yes,0,Yes,Yes,Yes,No,0,0.0,1,1,CUST55915,0,0.6375962573652266,241,Price-sensitive
+13,Month-to-month,34.78,442.9,Fiber optic,No,No,No,Bank transfer (auto),Yes,1,Yes,Yes,Yes,Yes,2,39.94,0,0,CUST53862,0,0.6373145280032197,242,General high-risk
+8,Month-to-month,115.92,930.05,Fiber optic,No,No,Yes,Mailed check,Yes,0,No,No,Yes,No,0,48.81,0,0,CUST55040,1,0.6372203597221163,243,Price-sensitive
+14,Month-to-month,67.77,874.56,Fiber optic,No,No,Yes,Mailed check,Yes,1,Yes,Yes,Yes,No,2,3.31,0,1,CUST53212,1,0.6366959501041294,244,General high-risk
+16,Month-to-month,72.06,1176.4,Fiber optic,Yes,No,Yes,Electronic check,Yes,0,No,No,No,No phone service,1,41.64,0,0,CUST55585,0,0.6366530681291106,245,Payment-friction
+26,Month-to-month,63.05,1460.84,Fiber optic,Yes,Yes,No,Mailed check,No,0,No,Yes,Yes,Yes,10,91.13,2,0,CUST56164,0,0.6366449878217503,246,Service-frustrated
+17,Month-to-month,29.78,501.97,Fiber optic,No,No,Yes,Mailed check,Yes,0,No,Yes,Yes,Yes,1,3.88,0,0,CUST50964,1,0.6360539441094502,247,General high-risk
+21,Month-to-month,64.2,1232.82,Fiber optic,No,No,Yes,Mailed check,No,0,No,No,Yes,No,1,11.33,1,0,CUST52279,1,0.6356514264990727,248,General high-risk
+26,Month-to-month,105.05,2759.59,DSL,No,No,Yes,Mailed check,Yes,0,Yes,Yes,Yes,Yes,4,15.08,0,1,CUST50106,1,0.6356012296405037,249,Service-frustrated
+2,Month-to-month,101.84,188.92,No,No internet service,No internet service,No internet service,Mailed check,No,1,No,Yes,Yes,Yes,3,0.0,1,1,CUST53562,0,0.6355100594969003,250,Service-frustrated
+1,Month-to-month,29.49,28.61,DSL,No,No,Yes,Bank transfer (auto),Yes,0,No,Yes,Yes,Yes,0,49.57,0,0,CUST52220,1,0.6348465820059785,251,New-customer onboarding
+5,Month-to-month,28.2,120.21,No,No internet service,No internet service,No internet service,Bank transfer (auto),Yes,1,Yes,Yes,Yes,No,3,0.0,1,0,CUST53155,0,0.6347705770917371,252,Service-frustrated
+8,Month-to-month,38.67,271.3,Fiber optic,No,No,No,Credit card (auto),No,0,Yes,No,No,No phone service,1,22.11,1,0,CUST56934,1,0.6346717314994045,253,General high-risk
+1,Month-to-month,22.67,22.21,DSL,No,No,Yes,Mailed check,No,0,No,No,Yes,Yes,2,14.25,1,0,CUST52365,1,0.6345276729661891,254,New-customer onboarding
+3,Month-to-month,45.58,131.97,DSL,Yes,Yes,No,Mailed check,No,0,Yes,Yes,Yes,Yes,4,55.58,0,0,CUST55192,1,0.6344027374748593,255,Service-frustrated
+48,Month-to-month,34.01,1614.97,Fiber optic,No,No,No,Electronic check,Yes,1,No,No,Yes,Yes,6,32.5,1,0,CUST53514,0,0.6334956143058887,256,Service-frustrated
+18,Month-to-month,31.96,603.87,Fiber optic,No,No,No,Credit card (auto),No,0,Yes,No,Yes,Yes,2,27.06,1,0,CUST50740,0,0.6332499146591355,257,General high-risk
+21,Month-to-month,28.76,517.68,Fiber optic,No,No,No,Electronic check,No,0,No,No,Yes,No,0,50.0,0,2,CUST54007,0,0.6326716776173835,258,Payment-friction
+8,Month-to-month,80.94,597.09,Fiber optic,No,No,No,Bank transfer (auto),No,0,Yes,Yes,Yes,Yes,1,6.89,1,1,CUST56582,1,0.6322028294126664,259,General high-risk
+12,Month-to-month,108.07,1231.28,DSL,Yes,No,No,Bank transfer (auto),No,0,No,Yes,Yes,Yes,5,73.66,0,2,CUST51689,0,0.6316105149112995,260,Service-frustrated
+5,Two year,69.53,308.88,Fiber optic,No,No,Yes,Electronic check,Yes,0,No,No,Yes,Yes,4,57.81,4,1,CUST51708,0,0.6315133469264551,261,Service-frustrated
+14,Month-to-month,92.98,1172.98,Fiber optic,No,No,Yes,Bank transfer (auto),No,0,Yes,No,Yes,No,1,40.33,1,0,CUST55927,0,0.631361720239592,262,General high-risk
+12,Month-to-month,61.01,648.07,Fiber optic,Yes,No,Yes,Credit card (auto),Yes,0,No,No,Yes,Yes,1,30.64,0,0,CUST50752,1,0.6302108567654535,263,General high-risk
+15,Month-to-month,72.82,983.54,Fiber optic,No,Yes,No,Electronic check,Yes,0,No,Yes,Yes,No,2,33.35,1,1,CUST56208,1,0.6291405592207766,264,Payment-friction
+22,Month-to-month,71.52,1357.12,Fiber optic,No,No,No,Credit card (auto),No,0,No,No,Yes,No,0,3.52,0,0,CUST53307,0,0.6287008347687894,265,General high-risk
+25,Month-to-month,82.73,2021.75,Fiber optic,Yes,No,No,Electronic check,Yes,0,No,Yes,Yes,Yes,1,5.54,0,0,CUST53202,0,0.6285280017052972,266,Payment-friction
+15,Month-to-month,76.26,1102.2,Fiber optic,Yes,Yes,No,Bank transfer (auto),No,0,No,No,Yes,No,3,17.53,0,0,CUST53829,0,0.6280696960309706,267,Service-frustrated
+4,Month-to-month,52.77,191.79,Fiber optic,Yes,No,No,Credit card (auto),Yes,0,Yes,Yes,Yes,Yes,1,26.54,0,0,CUST53455,0,0.6276268329589888,268,New-customer onboarding
+1,Month-to-month,43.11,42.75,No,No internet service,No internet service,No internet service,Mailed check,No,0,Yes,No,Yes,Yes,5,0.0,0,0,CUST52601,1,0.6275794046928148,269,Service-frustrated
+37,Month-to-month,110.48,3855.66,Fiber optic,No,No,No,Electronic check,No,0,Yes,No,Yes,No,0,6.17,0,3,CUST51662,1,0.6273797795680037,270,Payment-friction
+15,Month-to-month,108.77,1675.69,No,No internet service,No internet service,No internet service,Electronic check,Yes,0,No,No,Yes,No,3,0.0,0,2,CUST54846,0,0.627204498132581,271,Service-frustrated
+21,Month-to-month,46.76,975.75,Fiber optic,No,No,No,Electronic check,No,0,Yes,Yes,No,No phone service,0,32.59,0,1,CUST52997,1,0.6271716666455227,272,Payment-friction
+2,Month-to-month,69.15,130.96,DSL,Yes,No,Yes,Credit card (auto),Yes,0,No,Yes,Yes,Yes,3,17.41,0,1,CUST50597,0,0.6266352507374089,273,Service-frustrated
+26,Month-to-month,104.49,2840.38,Fiber optic,No,Yes,Yes,Credit card (auto),Yes,0,Yes,No,No,No phone service,1,24.39,0,0,CUST56768,1,0.6260699185606939,274,Price-sensitive
+27,Month-to-month,87.01,2352.8,DSL,Yes,Yes,Yes,Electronic check,Yes,0,No,Yes,Yes,Yes,5,32.1,0,2,CUST52516,1,0.625444644498367,275,Service-frustrated
+17,Month-to-month,55.18,958.55,Fiber optic,No,Yes,No,Credit card (auto),Yes,0,No,No,Yes,No,2,22.08,1,1,CUST53585,1,0.6252511835289057,276,General high-risk
+17,Month-to-month,57.89,879.74,DSL,Yes,Yes,No,Bank transfer (auto),Yes,0,No,No,Yes,No,5,30.65,1,0,CUST52701,1,0.6246636280912066,277,Service-frustrated
+13,Month-to-month,63.39,761.58,Fiber optic,Yes,No,Yes,Electronic check,No,0,Yes,No,Yes,Yes,0,50.64,1,0,CUST54625,0,0.6239601599445479,278,Payment-friction
+1,Month-to-month,23.81,24.28,No,No internet service,No internet service,No internet service,Bank transfer (auto),Yes,0,Yes,Yes,Yes,No,3,0.0,0,0,CUST54948,1,0.6239123591293192,279,Service-frustrated
+11,Month-to-month,102.67,1096.96,No,No internet service,No internet service,No internet service,Mailed check,Yes,1,No,No,Yes,No,12,0.0,0,1,CUST51826,0,0.6234743608908957,280,Service-frustrated

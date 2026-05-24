@@ -1,0 +1,6 @@
+primary_segment,customers,churners,churn_rate,avg_churn_probability,avg_monthly_charge,avg_tenure_months,avg_support_calls,avg_late_payments,share_of_top20_pool
+Service-frustrated,117,71,0.6068,0.6964,72.9948,10.5983,5.0513,0.3675,0.4179
+Payment-friction,87,58,0.6667,0.6893,72.5317,9.7011,0.9655,0.4368,0.3107
+General high-risk,27,16,0.5926,0.6501,55.1719,15.8519,1.1481,0.3333,0.0964
+Price-sensitive,32,14,0.4375,0.6731,108.665,8.625,1.125,0.4062,0.1143
+New-customer onboarding,17,11,0.6471,0.6718,69.3824,2.3529,0.9412,0.2941,0.0607

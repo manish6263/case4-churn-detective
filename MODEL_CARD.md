@@ -44,6 +44,20 @@ Using the selected Random Forest risk scores on the held-out test set:
 
 Recommended starting point: **top 20% risk**. It captures one-third of churners in a manageable outreach pool and performs 1.68x better than random targeting.
 
+## High-Risk Segment Findings
+
+Primary segments in the top-20% risk pool:
+
+| Segment | Customers | Churners | Churn Rate | Share of Top-20% Pool |
+|---|---:|---:|---:|---:|
+| Service-frustrated | 117 | 71 | 0.6068 | 0.4179 |
+| Payment-friction | 87 | 58 | 0.6667 | 0.3107 |
+| Price-sensitive | 32 | 14 | 0.4375 | 0.1143 |
+| New-customer onboarding | 17 | 11 | 0.6471 | 0.0607 |
+| General high-risk | 27 | 16 | 0.5926 | 0.0964 |
+
+Segments can overlap. The membership view shows payment-friction risk appears in 141 top-risk customers and new-customer onboarding risk appears in 127 top-risk customers.
+
 ## Monitoring Considerations
 
 In production, the model should be monitored for feature drift, label drift, campaign response, fairness concerns, and changes in churn base rate.
