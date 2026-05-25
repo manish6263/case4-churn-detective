@@ -35,6 +35,14 @@ notebooks/case4_churn_analysis.ipynb
 
 This notebook is the main review entry point. It summarizes the data audit, driver evidence, model comparison, campaign threshold, customer segments, retention plays, limitations, and 60-day measurement plan.
 
+## Run The Streamlit Dashboard
+
+```bash
+streamlit run app.py
+```
+
+The dashboard is designed for Hugging Face Spaces hosting and summarizes the CMO-facing story: churn drivers, top-risk targeting, segments, retention plays, and 60-day measurement.
+
 ## Planned Deliverables
 
 - Notebook with EDA, modeling, interpretation, segmentation, limitations, and 60-day measurement plan: `notebooks/case4_churn_analysis.ipynb`.
