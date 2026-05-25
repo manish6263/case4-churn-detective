@@ -1,3 +1,15 @@
+---
+title: Churn Detective
+emoji: 📉
+colorFrom: blue
+colorTo: green
+sdk: streamlit
+sdk_version: "1.45.1"
+python_version: "3.10"
+app_file: app.py
+pinned: false
+---
+
 # Case 4: Churn Detective - Telecom Retention Brief
 
 CMO-ready churn analysis that combines honest model performance, evidence-backed churn drivers, actionable churner segments, three retention plays, limitations/risks, and a 60-day success measurement plan.
