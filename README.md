@@ -12,7 +12,8 @@ pinned: false
 
 # Case 4: Churn Detective - Telecom Retention Brief
 
-**Live demo:** https://huggingface.co/spaces/mp626329/case4-churn-detective  
+**Live demo:** https://mp626329-case4-churn-detective.hf.space  
+**Hugging Face Space:** https://huggingface.co/spaces/mp626329/case4-churn-detective  
 **Repo:** https://github.com/manish6263/case4-churn-detective  
 **Demo video:** coming soon
 
