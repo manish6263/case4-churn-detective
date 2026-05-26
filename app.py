@@ -10,7 +10,23 @@ TABLES = ROOT / "reports" / "tables"
 BRIEF_PATH = ROOT / "reports" / "churn_retention_brief.md"
 
 
-st.set_page_config(page_title="Churn Detective", page_icon="📉", layout="wide")
+st.set_page_config(page_title="Churn Detective", page_icon=":bar_chart:", layout="centered")
+
+st.markdown(
+    """
+    <style>
+    .block-container {
+        max-width: 980px;
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+    }
+    div[data-testid="stMetric"] {
+        min-height: 96px;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
 
 
 @st.cache_data
@@ -55,14 +71,14 @@ with driver_b:
     st.image(str(FIGURES / "churn_by_payment_method.png"), use_container_width=True)
 
 with st.expander("Driver summary table"):
-    st.dataframe(read_csv(TABLES / "churn_driver_summary.csv"), use_container_width=True)
+    st.table(read_csv(TABLES / "churn_driver_summary.csv"))
 
 st.header("2. Who should the CMO target?")
 st.write(
     "The selected starting point is the top 20% highest-risk customers. This keeps outreach manageable "
     "while finding one-third of churners in the held-out test set."
 )
-st.dataframe(thresholds, use_container_width=True)
+st.table(thresholds)
 
 targeted = int(impact["targeted_customers"])
 churners = int(impact["churners_found"])
@@ -79,7 +95,7 @@ st.success(
 
 st.header("3. Which segments need different plays?")
 st.write("Segments can overlap, so campaign rules should use segment tags and priority ordering.")
-st.dataframe(segments, use_container_width=True)
+st.table(segments)
 st.image(str(FIGURES / "high_risk_primary_segments.png"), use_container_width=True)
 
 st.header("4. What should we offer?")
@@ -102,21 +118,30 @@ plays = pd.DataFrame(
         },
     ]
 )
-st.dataframe(plays, hide_index=True, use_container_width=True)
+st.table(plays)
 
 st.header("5. How do we prove it works?")
-flow_cols = st.columns([1.1, 1.1, 1.4, 1.1])
-flow_cols[0].info("Top-risk customers")
-flow_cols[1].info("Random split")
-flow_cols[2].success("Treatment offer\n\nHoldout group")
-flow_cols[3].info("60-day comparison")
+st.markdown(
+    """
+    <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:12px 0 20px 0;">
+      <div style="border:2px solid #2563eb;border-radius:8px;padding:14px 18px;font-weight:700;">Top-risk customers</div>
+      <div style="font-size:24px;color:#2563eb;">&#8594;</div>
+      <div style="border:2px solid #64748b;border-radius:8px;padding:14px 18px;font-weight:700;">Random split</div>
+      <div style="font-size:24px;color:#2563eb;">&#8594;</div>
+      <div style="border:2px solid #059669;border-radius:8px;padding:14px 18px;font-weight:700;">Treatment / Holdout</div>
+      <div style="font-size:24px;color:#2563eb;">&#8594;</div>
+      <div style="border:2px solid #2563eb;border-radius:8px;padding:14px 18px;font-weight:700;">60-day comparison</div>
+    </div>
+    """,
+    unsafe_allow_html=True,
+)
 st.write(
     "Run a 60-day treatment versus holdout test by segment. Scale only the plays that reduce churn "
     "and produce positive net value after offer costs."
 )
 
 st.header("Model performance")
-st.dataframe(model_comparison, use_container_width=True)
+st.table(model_comparison)
 st.caption(
     "Random Forest is selected for risk ranking because it has the highest ROC-AUC and PR-AUC. "
     "Logistic Regression remains useful for directional interpretation."
