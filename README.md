@@ -12,6 +12,10 @@ pinned: false
 
 # Case 4: Churn Detective - Telecom Retention Brief
 
+**Live demo:** https://huggingface.co/spaces/mp626329/case4-churn-detective  
+**Repo:** https://github.com/manish6263/case4-churn-detective  
+**Demo video:** coming soon
+
 CMO-ready churn analysis that combines honest model performance, evidence-backed churn drivers, actionable churner segments, three retention plays, limitations/risks, and a 60-day success measurement plan.
 
 ## What This Is
