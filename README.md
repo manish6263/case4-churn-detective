@@ -19,6 +19,8 @@ pinned: false
 
 CMO-ready churn analysis that combines honest model performance, evidence-backed churn drivers, actionable churner segments, three retention plays, limitations/risks, and a 60-day success measurement plan.
 
+![Live](../image.png)
+
 ## What This Is
 
 This project turns the provided telecom churn dataset into a retention brief for a CMO. The goal is not only to predict churn, but to explain why customers churn, who should be targeted first, what offer each segment should receive, and how campaign success should be measured.
